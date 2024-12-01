@@ -1,0 +1,6 @@
+.lightning_studio/
+.modelscope/
+.swanlab/
+output/
+qwen/
+swanlog/
